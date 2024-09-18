@@ -22,7 +22,7 @@ b. Display the first five and last five rows of the resulting cars
     import pandas as pd # Import the pandas library
 
     # a. Load the corresponding .csv file into a data frame named cars using pandas
-    cars = pd.read_csv('cars.csv') # Read the 'cars.csv' file and load it into a            DataFrame called 'cars'
+    cars = pd.read_csv('cars.csv') # Read the 'cars.csv' file and load it into a DataFrame called 'cars'
     cars
 
     # b. Display the first 5 rows of the Cars 
